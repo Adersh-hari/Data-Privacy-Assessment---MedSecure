@@ -22,7 +22,7 @@ This project presents a fictional Data Privacy Impact Assessment (DPIA) for *Med
 
 ## Data Flow Diagram
 
-![Data Flow Diagram](Data flow diagram.jpg)
+- *[Data Flow Diagram]
 
 This diagram illustrates how data flows between users, the MedSecure mobile application, backend servers, and healthcare providers.
 
